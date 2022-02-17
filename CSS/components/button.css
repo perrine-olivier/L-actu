@@ -1,0 +1,11 @@
+.btn-blue {
+	background-color: yellow;
+	padding: 5px 10px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+}
+
+a:hover {
+	color: grey;
+}
